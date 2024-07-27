@@ -56,4 +56,4 @@ Steps to install ros on jetson nano
 ```
    sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential
  ```
-### These steps will help you install ROS on your Jetson Nano. You can now start using ROS for your robotics projects.
+
